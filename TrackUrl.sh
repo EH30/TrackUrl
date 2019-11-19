@@ -1,5 +1,12 @@
 #!/bin/bash
 
+########################################
+# Educational purpose only             #
+########################################
+# I'm not responsible for your actions #
+
+########################################
+
 #64_bit
 #xterm -e ./ngrok_64 http 80 & clear
 
